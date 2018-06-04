@@ -1,0 +1,22 @@
+{
+  "cities": {
+    "name": "New York",
+    "description": "New York is cool.",
+    "food": {
+      "restaurantName": "Ichiran",
+      "restaurantDesc": "Ichiran is good ramen"
+    },
+    "bars": {
+      "barName": "Boobie Trap",
+      "barDesc": "Boobie trap rules"
+    },
+    "shopping": {
+      "storeName": "idk",
+      "storeDesc": "tbd"
+    },
+    "sightsee": {
+      "placeName": "Statue of Liberty",
+      "placeDesc": "shes cool."
+    }
+  }
+}
